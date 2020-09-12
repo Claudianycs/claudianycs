@@ -1,10 +1,8 @@
 ### Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-Meu nome é Claudiany Calaça de Sousa, sou Professora e Desenvolvedora com perfil Full Stack. Sou graduada em Licenciatura em Computação e Pós-graduada em Desenvolvimentos de Sistemas Computacionais, sou amante de boas práticas de desenvolvimento e trabalho com HTML, CSS, JAVASCRIPT, jQuery, NodeJS, PHP e MYSQL.
+Meu nome é Claudiany Calaça de Sousa, sou Professora e Desenvolvedora com perfil Full Stack. Sou graduada em Licenciatura em Computação e Pós-graduada em Desenvolvimentos de Sistemas Computacionais, sou amante de framework Laravel e trabalho com HTML, CSS, JAVASCRIPT, jQuery, NodeJS, PHP e MYSQL.
 
-profile views
-
-Minhas redes:
+### Minhas redes sociais:
 Youtube Youtube
 Twitter Twitter
 Linkedin LinkedIn

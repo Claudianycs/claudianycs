@@ -3,9 +3,9 @@
 Meu nome é Claudiany Calaça de Sousa, sou Professora e Desenvolvedora com perfil Full Stack. Sou graduada em Licenciatura em Computação e Pós-graduada em Desenvolvimentos de Sistemas Computacionais, sou amante do desenvolvimento web e do framework Laravel, logo trabalho com HTML, CSS, JAVASCRIPT, jQuery, NodeJS, PHP e MYSQL.
 
 ### Minhas redes sociais:
-Youtube Youtube
-Twitter Twitter
-Linkedin LinkedIn
+Instagram
+LinkedIn
+
 <!--
 **Claudianycs/claudianycs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
